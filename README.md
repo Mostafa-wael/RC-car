@@ -7,4 +7,4 @@
   - Supports variable speed -which can be controlled by the bluetooth controller- 
   - Supports many motion styles such as: moving in the four main directions, rotating clockwise, rotating anti-clockwise, ...etc
   
-*this project is served as a partial fulfillment of the Requirements for GEN001 Practical and Engineering Applications (Physics part) for the preparatory year 2018-2019 
+*this project is served as a partial fulfillment of the Requirements for GEN001 Practical and Engineering Applications (Physics part) for the preparatory year 2018-2019 Cairo universty, faculty of engineering 
